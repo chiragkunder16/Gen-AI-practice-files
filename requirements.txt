@@ -6,3 +6,5 @@ beautifulsoup4
 langchain_community
 faiss-cpu
 streamlit
+langchain_groq
+langchain_core
